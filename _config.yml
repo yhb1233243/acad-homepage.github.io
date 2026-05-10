@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "叶海波 | 个人主页"
 description              :
-repository               : "RayeRen/acad-homepage.github.io"
+url                      : "https://yhb1233243.github.io"
+baseurl                  : "/acad-homepage.github.io"
+repository               : "yhb1233243/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
